@@ -1,7 +1,7 @@
 # YWAniSwitchViewButton
 A button that can make changing two views' hidden status to the opposite at
 the same time.
-![Alt text](https://github.com/MrYu4/YWAniSwithViewButton/tree/master/READMEImg/effect_picture.gif)
+![Alt text](https://raw.githubusercontent.com/MrYu4/YWAniSwithViewButton/master/READMEImg/effect_picture.gif)
 ## Function Introduction
 This button inheriting UIButton has contained methods that can control two
 views' hidden status While you pressing the button.
